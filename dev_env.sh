@@ -44,14 +44,9 @@ USER_NAME=fabialme
 WEB_PORT=443
 WP_PORT=9000
 DB_PORT=3306
-FTP_PORT=2121
-FTP_PASV_MIN_PORT=21000
-FTP_PASV_MAX_PORT=21010
 REDIS_HOST=redis
 REDIS_PORT=6379
 ADMINER_PORT=8080
-STATIC_PORT=8081
-PORTAINER_PORT=9001
 
 # ==============================================================================
 #                      CONFIGURAÇÕES DE REDE E SITE
